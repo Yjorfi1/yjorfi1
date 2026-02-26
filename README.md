@@ -1,5 +1,16 @@
 <h1>Hi 👋, My name is Yassir</h1>
-<p>I'm a passionate and creative front end developor</p>
+<p>I'm a passionate and creative front end developer who loves working on design</p>
+
+
+<p>
+- 🔭 I’m currently working on a project for a business for school
+- 🌱 I’m currently learning back end coding with school
+- 📫 Portfolio: https://yjorfi1.github.io/portfolio-website/
+- 💬 Ask me about anything!
+- ⚡ Fun fact: I have 0 control over my impulses when it comes to spending my money 😁
+
+</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
