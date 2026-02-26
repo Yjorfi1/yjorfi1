@@ -3,11 +3,11 @@
 
 
 <p>
-- 🔭 I’m currently working on a project for a business for school
-- 🌱 I’m currently learning back end coding with school
-- 📫 Portfolio: https://yjorfi1.github.io/portfolio-website/
-- 💬 Ask me about anything!
-- ⚡ Fun fact: I have 0 control over my impulses when it comes to spending my money 😁
+- 🔭 I’m currently working on a project for a business for school <br/>
+- 🌱 I’m currently learning back end coding with school<br/>
+- 📫 Portfolio: https://yjorfi1.github.io/portfolio-website/<br/>
+- 💬 Ask me about anything!<br/>
+- ⚡ Fun fact: I have 0 control over my impulses when it comes to spending my money 😁<br/>
 
 </p>
 
