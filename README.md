@@ -28,3 +28,7 @@
     <p>
         <a target="_blank" href="https://www.linkedin.com/in/yassir-jorfi-4136b03b6/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=#0a77b6" alt="linkedin" /></a>
     </p>
+
+<h2>🤓 Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=yjorfi1&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjorfi1&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
