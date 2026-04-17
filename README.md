@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning back end coding with school<br/>
 - 📫 Portfolio: https://yjorfi1.github.io/portfolio-website/<br/>
 - 💬 Ask me about anything!<br/>
-- ⚡ Fun fact: I have 0 control over my impulses when it comes to spending my money 😁<br/>
+- ⚡ Fun fact: I have 0 control over my impulses when it comes to spending money on items on sale 😁<br/>
 
 </p>
 
