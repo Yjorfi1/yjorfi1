@@ -30,5 +30,5 @@
     </p>
 
 <h2>🤓 Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=yjorfi1&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjorfi1&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+<img src="https://github-readme-stats.vercel.app/api?username=yjorfi1&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yjorfi1&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
