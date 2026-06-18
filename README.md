@@ -13,9 +13,9 @@
 
 <h2>🧑‍💻 Projects i worked on</h2>
 <p>
-- 📫 Instrumenten webshop: https://github.com/Yjorfi1/instrument-webshop/<br/>
-- 📫 Ikdoe+ portfolio: https://github.com/YanikRijgersberg/IK-DOE-<br/>
-- 📫 CodeCampus: https://github.com/Yjorfi1/CodeCampus-Y-Y-T<br/>
+- Instrumenten webshop: https://github.com/Yjorfi1/instrument-webshop/<br/>
+- Ikdoe+ portfolio: https://github.com/YanikRijgersberg/IK-DOE-<br/>
+- CodeCampus: https://github.com/Yjorfi1/CodeCampus-Y-Y-T<br/>
 
 </p>
 
